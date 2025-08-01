@@ -1,1 +1,3 @@
-# media-subtitle-synchronizer-93101
+# Project Repository
+
+This is the initial README file for the project.
